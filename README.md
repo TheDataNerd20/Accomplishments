@@ -14,5 +14,3 @@ https://www.datacamp.com/completed/statement-of-accomplishment/course/ec2f4704a6
 
 Joining Data in SQL
 https://www.datacamp.com/completed/statement-of-accomplishment/course/6f84f10e43f3840c2b1985a026805d58c1fe2325
-
-<img width="1440" height="900" alt="Screenshot 2026-01-18 at 7 15 59 PM" src="https://github.com/user-attachments/assets/5108a20d-fa15-4fa9-8dd8-48f456ad19cf" />
